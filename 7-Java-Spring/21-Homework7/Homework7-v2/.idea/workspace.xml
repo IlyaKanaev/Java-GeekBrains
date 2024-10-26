@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e7b9c61-6fbf-42a0-9b81-e4d003ac2c35" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/.idea/7-Java-Spring-v2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/03-Homework1/Homework1/src/main/java/myapp/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/src/main/java/ru/gb/hw2/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/src/main/java/ru/gb/hw2/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v1/src/main/java/ru/gb/hw2/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/src/main/java/com/example/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/src/main/java/com/example/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/src/main/java/com/example/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/src/main/java/com/example/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/06-Homework2/Homework2-v2/src/main/java/com/example/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/TimesheetApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/controller/TimesheetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/model/Timesheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/repository/TimesheetRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/service/TimesheetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/controller/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/model/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/repository/TaskRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/service/TaskService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/Sem3HomeTaskApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/controllers/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/domain/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/DataProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/RegistrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/utils/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/09-Homework3/Homework3-v2/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/12-Homework4/homework4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5-task2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/java/org/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/java/org/example/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/java/org/example/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/java/org/example/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/java/org/example/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/resources/templates/not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/resources/templates/personProfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/15-Homework5/homework5/src/main/resources/templates/persons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/NoteEndpoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/ReaderProperties.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/api/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/17-Seminar6/demo/src/main/java/ru/gb/demo/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/src/main/java/org/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/src/main/java/org/example/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/src/main/java/org/example/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/src/main/java/org/example/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v1/src/main/java/org/example/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ProjectPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ProjectPageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/TimesheetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/TimesheetPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/controllers/TimesheetPageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/model/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/model/Timesheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/repositories/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/repositories/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/repositories/TimesheetRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/services/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/services/ProjectPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/services/ProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/services/TimesheetPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/java/org/example/services/TimesheetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/resources/templates/imesheets-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/resources/templates/not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/resources/templates/project-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/resources/templates/projects-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v2/src/main/resources/templates/timesheet-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/controllers/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/module/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/DataProcessingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/NotificationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/RegistrationService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/utils/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/18-Homework6/Homework6-v3/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/model/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/page/PageExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/page/PersonPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/page/PersonPageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/repository/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/repository/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/repository/UserRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/security/MyCustomPasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/security/MyCustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/security/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/service/PersonPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/java/com/example/hw7/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/resources/templates/not_found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/resources/templates/oops.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/resources/templates/personProfile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v1/src/main/resources/templates/persons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/Hw7Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/EmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/ExceptionController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/ProjectController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/ProjectPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/ProjectPageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/TimesheetController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/TimesheetPageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/controllers/TimesheetPageDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/model/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/model/Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/model/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/model/Timesheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/model/UserRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/repositories/EmployeeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/repositories/ProjectRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/repositories/TimesheetRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/repositories/UserRoleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/security/MyCustomPasswordEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/security/MyCustomUserDetailsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/security/SecurityConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/services/EmployeeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/services/ProjectPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/services/ProjectService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/services/TimesheetPageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/java/kuzmich/hw7/services/TimesheetService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/resources/templates/not-found.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/resources/templates/project-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/resources/templates/projects-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/resources/templates/timesheet-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../7-Java-Spring-v2/21-Homework7/Homework7-v2/src/main/resources/templates/timesheets-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex001/PointMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex002/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex002/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex003/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex003/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex005/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex005/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex005/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Teams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/Program.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2nxvG9ewZzA8FNCCdmtXvXeqyKD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.Hw7Application.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/79155/Desktop/Java-GeekBrains/7-Java-Spring-v2/21-Homework7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Hw7Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Homework7-v2" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="kuzmich.hw7.Hw7Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="kuzmich.hw7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Hw7Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+        <option value="jdk-22-openjdk-22-4caba194b151-f504ca98" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e7b9c61-6fbf-42a0-9b81-e4d003ac2c35" name="Changes" comment="" />
+      <created>1729927447195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729927447195</updated>
+      <workItem from="1729927448239" duration="2466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
