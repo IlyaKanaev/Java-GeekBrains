@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a27690d8-7974-4b87-b511-a7424b310815" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex001/PointMethod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex002/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex002/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex003/Point2D.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex003/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex004/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex005/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex005/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex005/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex006/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex006/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex006/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex006/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex006/Teams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex007/BaseHero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex007/Magician.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex007/Priest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-Java-OOP/Lesson2/additional-materials/Ex007/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7-Java-Spring/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../7-Java-Spring/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2nxrFkLv9VpdYqJRQyxm704pg59" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/79155/Desktop/Java-GeekBrains",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a27690d8-7974-4b87-b511-a7424b310815" name="Changes" comment="" />
+      <created>1729925467696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729925467696</updated>
+      <workItem from="1729925469037" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
