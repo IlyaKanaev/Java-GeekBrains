@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+}
+
+.table th, .table td {
+    text-align: center;
+}
+
+.table th {
+    padding: 8px;
+}
+
+.table td {
+    padding: 8px;
+}
+
+.task-actions {
+    display: flex;
+    justify-content: space-between;
+}
+
+.btn-primary {
+    color: white;
+    text-decoration: none;
+}
+
+img {
+    width: 20px;
+    height: auto;
+}
