@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ceb9bf35-9c43-40d1-8ec0-089e086ad9d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1-Java-Introduction/Lesson2/Lesson2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../1-Java-Introduction/Lesson3/Lesson3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7-v2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7-v3.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Homework7-v3.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex001/PointMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex002/Point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex002/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex003/Point2D.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex003/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex004/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex004/Robot1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex004/Robot2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex004/Robot3$State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex004/Robot3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex005/Magician.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex005/Priest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex005/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex006/BaseHero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex006/Magician.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex006/Priest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex006/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex006/Teams.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex007/BaseHero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex007/Magician.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex007/Priest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Ex007/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/2-Java-OOP/Lesson_07/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex001/PointMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex001/PointMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex002/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex002/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex002/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex002/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex003/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex003/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex003/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex003/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex004/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex004/Robot1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex004/Robot2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex004/Robot3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex004/Robot3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex005/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex005/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex005/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex005/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex005/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex005/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex006/BaseHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex006/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex006/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex006/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex006/Teams.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex006/Teams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex007/BaseHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex007/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex007/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../2-Java-OOP/Lesson2/additional-materials/Ex007/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../2-Java-OOP/1-Lesson1/additional-materials/Ex007/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/7-Java-Spring-v2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/Java-GeekBrains.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../03-Homework1/Homework1/src/main/java/myapp/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/src/main/java/ru/gb/hw2/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/src/main/java/ru/gb/hw2/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v1/src/main/java/ru/gb/hw2/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/src/main/java/com/example/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/src/main/java/com/example/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/src/main/java/com/example/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/src/main/java/com/example/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../06-Homework2/Homework2-v2/src/main/java/com/example/service/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/TimesheetApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/controller/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/controller/TimesheetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/model/Timesheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/repository/TimesheetRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../08-Seminar3/final-code-Chestnov/src/main/java/com/example/timesheet/service/TimesheetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/controller/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/model/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/repository/TaskRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework-v1/src/main/java/ru/gb/hw3/service/TaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/Sem3HomeTaskApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/controllers/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/domain/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/DataProcessingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/RegistrationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/java/com/example/sem3HomeTask/utils/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09-Homework3/Homework3-v2/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../12-Homework4/homework4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5-task2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/java/org/example/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/java/org/example/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/java/org/example/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/java/org/example/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/java/org/example/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/resources/templates/not-found.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/resources/templates/personProfile.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../15-Homework5/homework5/src/main/resources/templates/persons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/DemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/NoteEndpoints.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/ReaderProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/api/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../17-Seminar6/demo/src/main/java/ru/gb/demo/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/src/main/java/org/example/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/src/main/java/org/example/controller/PersonController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/src/main/java/org/example/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/src/main/java/org/example/repository/PersonRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v1/src/main/java/org/example/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ExceptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ProjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ProjectPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/ProjectPageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/TimesheetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/TimesheetPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/controllers/TimesheetPageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/model/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/model/Timesheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/repositories/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/repositories/ProjectRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/repositories/TimesheetRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/services/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/services/ProjectPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/services/ProjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/services/TimesheetPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/java/org/example/services/TimesheetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/resources/templates/imesheets-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/resources/templates/not-found.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/resources/templates/project-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/resources/templates/projects-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v2/src/main/resources/templates/timesheet-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/controllers/TaskController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/controllers/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/module/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/repository/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/DataProcessingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/NotificationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/RegistrationService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/services/UserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/java/com/example/sem3HomeTask/utils/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../18-Homework6/Homework6-v3/src/main/resources/schema.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/Hw7Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/ExceptionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/ProjectController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/ProjectPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/ProjectPageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/TimesheetController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/TimesheetPageController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/controllers/TimesheetPageDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/model/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/model/Project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/model/Role.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/model/Timesheet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/model/UserRole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/repositories/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/repositories/ProjectRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/repositories/TimesheetRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/repositories/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/repositories/UserRoleRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/security/MyCustomPasswordEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/security/MyCustomUserDetailsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/security/SecurityConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/services/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/services/ProjectPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/services/ProjectService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/services/TimesheetPageService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/java/kuzmich/hw7/services/TimesheetService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/resources/templates/not-found.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/resources/templates/project-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/resources/templates/projects-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/resources/templates/timesheet-page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework7-v2/src/main/resources/templates/timesheets-page.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ny0WPgeOt6slY5peqW5yPyhLit" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.BasicAuthApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/79155/Desktop/Java-GeekBrains",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\79155\Desktop\Java-GeekBrains\7-Java-Spring\21-Homework7\Homework7-v3.1\src\main\java" />
+      <recent name="C:\Users\79155\Desktop\Java-GeekBrains\7-Java-Spring\21-Homework7\Homework7-v3.1\src\main\resources" />
+      <recent name="C:\Users\79155\Desktop\Java-GeekBrains\7-Java-Spring\21-Homework7\Homework7-v3.1\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BasicAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Homework7-v3.1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="ru.maliutin.basicauth.BasicAuthApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.maliutin.basicauth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BasicAuthApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-4caba194b151-5cd809f4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ceb9bf35-9c43-40d1-8ec0-089e086ad9d7" name="Changes" comment="" />
+      <created>1729930042335</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729930042335</updated>
+      <workItem from="1729930043566" duration="500000" />
+      <workItem from="1729951877038" duration="50000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
