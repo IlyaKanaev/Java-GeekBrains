@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: DaoAuthenticate
+  jpa:
+    generate-ddl: false
+    hibernate:
+      ddl-auto: none
