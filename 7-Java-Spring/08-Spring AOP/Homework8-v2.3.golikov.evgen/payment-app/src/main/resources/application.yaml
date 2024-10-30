@@ -1,0 +1,29 @@
+server:
+  port: 0
+
+spring:
+  application:
+    name: payment
+
+  config:
+    import: configserver:http://localhost:8888
+
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: http://localhost:8079
+  datasource:
+    url: jdbc:postgresql://localhost:5432/payment-app?currentSchema=accounts
+    username: postgres
+    password: 123
+
+  liquibase:
+    change-log: classpath:liquibase/db.changelog.yaml
+    enabled: true
+    default-schema: accounts
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
