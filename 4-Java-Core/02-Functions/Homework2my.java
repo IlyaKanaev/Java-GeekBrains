@@ -1,8 +1,13 @@
+/*Написать метод, возвращающий количество чётных элементов массива.
+countEvens([2, 1, 2, 3, 4]) → 3 countEvens([2, 2, 0]) → 3 countEvens([1, 3, 5]) → 0
+Написать функцию, возвращающую разницу между самым большим и самым маленьким элементами переданного не пустого массива.
+Написать функцию, возвращающую истину, если в переданном массиве есть два соседних элемента, с нулевым значением
+*/
 package org.example;
 
-public class Homework2-vika {
+public class Homework2my {
     public static void main(String[] args) {
-        int [] arr = {5, 3, 7, 0, 0, 4};
+        int[] arr = {5, 3, 7, 0, 0, 4};
         System.out.println(countEvens(arr));
         System.out.println(difference(arr));
         System.out.println(doubleZero(arr));
@@ -10,10 +15,10 @@ public class Homework2-vika {
     /* 1. Написать метод, возвращающий количество чётных элементов массива.
     countEvens([2, 1, 2, 3, 4]) → 3 countEvens([2, 2, 0]) → 3 countEvens([1, 3, 5]) → 0
      */
-    public static int countEvens(int [] arr) {
+    public static int countEvens(int[] arr) {
         int count = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (arr[i] %2 == 0){
+        for (int number : arr) {
+            if (number %2 == 0){
                 count++;
             }
         }
@@ -26,9 +31,9 @@ public class Homework2-vika {
     public static int difference(int [] arr){
         int min = 0;
         int max = 0;
-        for (int i = 1; i < arr.length; i++) {
-            if (arr[i] < min) min = arr[i];
-            if (arr[i] > max) max = arr[i];
+        for (int number : arr) {
+            if (number < min) min = number;
+            if (number > max) max = number;
         }
         return max-min;
     }
@@ -37,12 +42,13 @@ public class Homework2-vika {
     элемента, с нулевым значением.
      */
     public static boolean doubleZero(int[] arr){
-        boolean flag = false;
-        for (int i = 0; i < arr.length-1; i++) {
-            if (arr[i] == 0 && arr[i+1] == 0) {
-                flag = true;
+        int previousNumber = arr[0]
+        for (int i = 1; i < arr.length; i++) {
+            if (previousNumber == 0) {
+                if (arr[i] == 0) return true;
             }
+            previousNumber = arr[i];
         }
-        return flag;
+        return false;
     }
 }
