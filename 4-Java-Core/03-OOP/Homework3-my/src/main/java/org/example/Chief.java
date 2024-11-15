@@ -1,5 +1,5 @@
 package org.example;
-import java.util.Arrays;
+import java.util.ArrayList;
 import java.util.Objects;
 
 public class Chief extends Employee{
@@ -7,16 +7,19 @@ public class Chief extends Employee{
                  Integer birthY, Integer birthM, Integer birthD) {
         super(name, midName, lastName, phone, position, salary, birthY, birthM, birthD);
     }
-    public static void increase(Employee[] employees, int amount) {
+
+    /* Перенесите статический метод повышения зарплаты в класс руководителя,
+    модифицируйте метод таким образом,
+    чтобы он мог поднять заработную плату всем, кроме руководителей.*/
+    public static void increase(ArrayList<Employee> employees, int amount) {
         Objects.requireNonNull(employees);
-        Arrays.stream(employees).filter(e -> e != null && e.getClass().isAssignableFrom(Employee.class))
-                .forEach(e -> Chief.increaseSalary(e, amount));
+        employees.stream().filter(emp -> emp != null && emp.getClass().isAssignableFrom(Employee.class))
+                .forEach(emp -> increaseSalary(emp, amount));
 
     }
     public static void increaseSalary(Employee employee, int amount) {
-        Objects.requireNonNull(employee);
-        Integer salary = employee.getSalary();
-        employee.setSalary(salary + amount);
+        //Objects.requireNonNull(employee);
+        employee.setSalary(employee.getSalary() + amount);
     }
 
 
