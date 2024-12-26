@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="92155760-4547-4cf4-a3c0-a66101080c18" name="Changes" comment="" />
+    <list default="true" id="92155760-4547-4cf4-a3c0-a66101080c18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Homework8-v2.1.golikov.evgen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework8-v2.1.golikov.evgen/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Homework8-v3.1.chestnov.roma/src/main/java/kuzmich/hw8/aspect/TimerAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Homework8-v3.1.chestnov.roma/src/main/java/kuzmich/hw8/aspect/TimerAspect.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,26 +16,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2o94aehDvDlfL2zXOysJG5LyRPK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/79155/Desktop/Java-GeekBrains/7-Java-Spring/08-Spring AOP/Homework8-v2.2.golikov.evgen",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/79155/Desktop/Java-GeekBrains/7-Java-Spring/08-Spring AOP/Homework8-v2.2.golikov.evgen&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\79155\Desktop\Java-GeekBrains\7-Java-Spring\08-Spring AOP\Homework8-v2.2.golikov.evgen" />
@@ -54,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730268525834</updated>
       <workItem from="1730268527234" duration="94000" />
+      <workItem from="1730387091476" duration="40000" />
     </task>
     <servers />
   </component>

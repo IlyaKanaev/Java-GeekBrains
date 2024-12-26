@@ -2,7 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/7-Java-Spring/21-Homework7/Homework7-v3.2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/7-Java-Spring/21-Homework7/Homework7-v3.3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-Java-OOP/02-Interfaces/Homework2v2vd/OOP_Seminar2_HW_KorolevKN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2-Java-OOP/03-Some-Standard-Interfaces/Homework3v2vd/OOP_Seminar3_HW_KorolevKN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/3-Java-Exceptions/FinalControlWork/FinalControlWorkV1my" vcs="Git" />
   </component>
 </project>

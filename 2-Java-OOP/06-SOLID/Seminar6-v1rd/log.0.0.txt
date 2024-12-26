@@ -1,0 +1,2 @@
+дек. 25, 2024 2:33:42 PM dip1.Main main
+INFO: Method main in model package started
