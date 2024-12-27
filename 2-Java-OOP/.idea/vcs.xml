@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/02-Interfaces/Homework2v2vd/OOP_Seminar2_HW_KorolevKN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/03-Some-Standard-Interfaces/Homework3v2vd/OOP_Seminar3_HW_KorolevKN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-Generics/Homework4-v2vd/OOP_Seminar4_HW_KorolevKN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/04-Generics/Seminat4-v1rd/OOPLesson4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-From-simple-to-practice/Homework5-v1rd/gb-notebook" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/05-From-simple-to-practice/Seminar5-v1rd/code-before" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/06-SOLID/Seminar6-v2vd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/07-Is-there-a-life-without-java/Seminar7-v1rd" vcs="Git" />
+  </component>
+</project>

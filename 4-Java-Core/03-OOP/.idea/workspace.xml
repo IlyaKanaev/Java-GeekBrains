@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d7ea47b-b05d-4305-860a-0083312d6420" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7-Java-Spring/08-Spring AOP/Homework8-v2.1.golikov.evgen/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7-Java-Spring/08-Spring AOP/Homework8-v2.1.golikov.evgen/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7-Java-Spring/08-Spring AOP/Homework8-v2.2.golikov.evgen/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../7-Java-Spring/08-Spring AOP/Homework8-v2.2.golikov.evgen/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../7-Java-Spring/08-Spring AOP/Homework8-v3.1.chestnov.roma/src/main/java/kuzmich/hw8/aspect/TimerAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../7-Java-Spring/08-Spring AOP/Homework8-v3.1.chestnov.roma/src/main/java/kuzmich/hw8/aspect/TimerAspect.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2osgAW5aKMjcbuvPbdjM1grWmkJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/79155/Desktop/Java-GeekBrains/4-Java-Core/04-Exceptions",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d7ea47b-b05d-4305-860a-0083312d6420" name="Changes" comment="" />
+      <created>1731663554938</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731663554938</updated>
+      <workItem from="1731663556340" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
